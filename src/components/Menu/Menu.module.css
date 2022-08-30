@@ -1,0 +1,13 @@
+.menulateral > nav{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 32px;
+    padding: 20px;
+}
+
+.menulateral{
+    border-right:5px black solid;
+  }
